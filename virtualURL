@@ -1,0 +1,557 @@
+[
+  {
+    "virtualUrl": "/en-us/smb/worry-free-business-security/agent_features/",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp3-server-help-available-security-a"
+  },
+  {
+    "virtualUrl": "/en-us/smb/worry-free-business-security/install_meth/",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp3-server-help-security-agent-insta1234"
+  }
+  [
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/device_control_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-device-c"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/disk_cleaner_use.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-running-disk-cleaner"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/firewall_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-the-fire"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/firewall_exceptions_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-\r\nsecurity-90-sp2-server-help-working-with-firewal"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/global_settings.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-global-settings"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/import_export_settings.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-importing-and-export"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/index.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-introducing-wfbs-sta"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_meth_clientpackager.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-with-clie"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_meth_email.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-with-emai"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_meth_loginscript.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-with-logi"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_meth_remote.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-with-remo"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_meth_tmvs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-with-vuln"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_msa.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-messaging-security-a"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_wfrma.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-the-trend"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/license.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-managing-the-product"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/live_status_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-live-status"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/log_query_using.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-using-log-query"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/logs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-logs"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/maintenance_tasks.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-performing-maintenan"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/scans_target_action.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-scan-targets-and-act"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/scheduled_update.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-schedule1"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/scheduledscan_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-schedule"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/server_update_source.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-the-secu"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/smart_feedbk_participate.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-participating-in-the"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/token_variables.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-token-variables"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/tool_types.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-tool-types"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/trusted_prog_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-trusted-"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/update_agents_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-update-a"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/url_filter_config_wfbs",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-url-filt"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/url_filter_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-url-filt"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/user_tools.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-user-tools"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/vulner_assess_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-vulnerability-assess"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/webrep_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-web-repu"
+  },
+  {
+    "virtualUrl": "/en-us/smb/worry-free-business-security-90-sp2/agent_features/",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-available-security-a"
+  },
+  {
+    "virtualUrl": "/en-us/smb/worry-free-business-security-90-sp2/ch_intro/whats_new_90-sp2.aspx",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-introducing-wfbs-sta"
+  },
+  {
+    "virtualUrl": "/en-us/smb/worry-free-business-security-90-sp2/install_meth/",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-security-agent-insta1234"
+  },
+  {
+    "virtualUrl": "/en-us/smb/worry-free-business-security-90-sp2/whats_new_90-sp2.aspx",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-new-in-this-release"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/About_FQDN.htm",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-wfbs-security-server1"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/about_groups.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-groups"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/add_agent.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-adding-agents-to-gro"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/add_group.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-adding-groups"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/add_ins.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-using-the-sbs-or-ebs"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/agent_updates.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-wfbs-notifications"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/auto_outbreak_defense_details.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-outbreak"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/be_monit_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-behavior"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/ch_intro_outbreak.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-outbreak-defense-cur"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/client_component_rollback.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-wfbs-rolling-back-co"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/client_priv_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-client-p"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/damage_cleanup_svcs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-damage-cleanup"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/Managing_Scans/Configuring_POP3_Mail_Scan.htm",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-scan-targets-and-act"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/manual_update.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-updating-the-securit"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/manualscan_run.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-running-manual-scans"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/move_agent.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-moving-agents"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/notifications_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-events-f"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/outbreak_defense_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-outbreak"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/outbreak_defense_current.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-outbreak-defense-cur"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/outbreak_defense_excep_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-outbreak"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/password_change.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-wfbs-password_change"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/quarantine_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-quaranti"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/realtimescan_sa_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-real-tim"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/regenid_tool.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-using-the-regenid-to"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/remove_agent.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-removing-agents"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/replicate_settings.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-replicating-settings"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/report_scheduled_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-working-with-schedul"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/reports_one_time_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-working-with-one-tim"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/restore_encrypted.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-restoring-encrypted-"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/scan_method_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-scan-met"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/scan_server_db_mover.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-moving-the-scan-serv"
+  }
+  [
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/device_control_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-device-c"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/disk_cleaner_use.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-running-disk-cleaner"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/firewall_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-the-fire"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/firewall_exceptions_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-\r\nsecurity-90-sp2-server-help-working-with-firewal"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/global_settings.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-global-settings"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/import_export_settings.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-importing-and-export"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/index.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-introducing-wfbs-sta"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_meth_clientpackager.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-with-clie"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_meth_email.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-with-emai"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_meth_loginscript.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-with-logi"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_meth_remote.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-with-remo"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_meth_tmvs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-with-vuln"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_msa.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-messaging-security-a"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/install_wfrma.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-installing-the-trend"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/license.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-managing-the-product"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/live_status_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-live-status"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/log_query_using.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-using-log-query"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/logs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-logs"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/maintenance_tasks.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-performing-maintenan"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/scans_target_action.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-scan-targets-and-act"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/scheduled_update.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-schedule1"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/scheduledscan_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-schedule"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/server_update_source.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-the-secu"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/smart_feedbk_participate.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-participating-in-the"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/token_variables.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-token-variables"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/tool_types.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-tool-types"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/trusted_prog_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-trusted-"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/update_agents_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-update-a"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/url_filter_config_wfbs",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-url-filt"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/url_filter_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-url-filt"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/user_tools.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-user-tools"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/vulner_assess_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-vulnerability-assess"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/webrep_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-web-repu"
+  },
+  {
+    "virtualUrl": "/en-us/smb/worry-free-business-security-90-sp2/agent_features/",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-available-security-a"
+  },
+  {
+    "virtualUrl": "/en-us/smb/worry-free-business-security-90-sp2/ch_intro/whats_new_90-sp2.aspx",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-introducing-wfbs-sta"
+  },
+  {
+    "virtualUrl": "/en-us/smb/worry-free-business-security-90-sp2/install_meth/",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-security-agent-insta1234"
+  },
+  {
+    "virtualUrl": "/en-us/smb/worry-free-business-security-90-sp2/whats_new_90-sp2.aspx",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-new-in-this-release"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/About_FQDN.htm",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-wfbs-security-server1"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/about_groups.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-groups"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/add_agent.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-adding-agents-to-gro"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/add_group.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-adding-groups"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/add_ins.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-using-the-sbs-or-ebs"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/agent_updates.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-wfbs-notifications"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/auto_outbreak_defense_details.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-outbreak"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/be_monit_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-behavior"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/ch_intro_outbreak.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-outbreak-defense-cur"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/client_component_rollback.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-wfbs-rolling-back-co"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/client_priv_config_wfbs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-client-p"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/damage_cleanup_svcs.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-damage-cleanup"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/Managing_Scans/Configuring_POP3_Mail_Scan.htm",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-scan-targets-and-act"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/manual_update.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-updating-the-securit"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/manualscan_run.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-running-manual-scans"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/move_agent.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-moving-agents"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/notifications_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-events-f"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/outbreak_defense_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-outbreak"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/outbreak_defense_current.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-outbreak-defense-cur"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/outbreak_defense_excep_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-outbreak"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/password_change.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-wfbs-password_change"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/quarantine_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-quaranti"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/realtimescan_sa_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-real-tim"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/regenid_tool.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-using-the-regenid-to"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/remove_agent.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-removing-agents"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/replicate_settings.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-replicating-settings"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/report_scheduled_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-working-with-schedul"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/reports_one_time_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-working-with-one-tim"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/restore_encrypted.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-restoring-encrypted-"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/scan_method_config.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-configuring-scan-met"
+  },
+  {
+    "virtualUrl": "/all/smb/wfbs-s/v9.0-sp2/en-us/wfbs_9.0-sp2_olhsrv/scan_server_db_mover.html",
+    "destinationUrl": "/en-us/documentation/article/worry-free-business-security-90-sp2-server-help-moving-the-scan-serv"
+  }
+]
+
